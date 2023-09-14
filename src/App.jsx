@@ -1,10 +1,15 @@
 import './App.css'
+import Header from './component/header/Header'
+import Shirts from './component/shirt-con/shirts/shirts'
 
 function App() {
 
   return (
     <>
-      <h1>Vite + React</h1>
+      <Header></Header>
+      <div>
+        <Shirts></Shirts>
+      </div>
     </>
   )
 }
