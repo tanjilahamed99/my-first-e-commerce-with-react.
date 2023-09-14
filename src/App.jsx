@@ -18,11 +18,7 @@ function App() {
       setTotal(total + Price)
     }
   }
-
   
-
-
-
   return (
     <>
       <Header></Header>
