@@ -1,0 +1,122 @@
+[
+    {
+        "Brand": "FashionFab",
+        "Color": "Blue",
+        "Size": "Medium",
+        "Material": "Cotton",
+        "Price": "$29.99",
+        "Stock": 150,
+        "SKU": "FF12345",
+        "Description": "A stylish blue cotton shirt for everyday wear."
+    },
+    {
+        "Brand": "TrendyThreads",
+        "Color": "Red",
+        "Size": "Large",
+        "Material": "Polyester",
+        "Price": "$39.99",
+        "Stock": 100,
+        "SKU": "TT56789",
+        "Description": "A vibrant red polyester shirt with a modern design."
+    },
+    {
+        "Brand": "ClassicWear",
+        "Color": "White",
+        "Size": "Small",
+        "Material": "Linen",
+        "Price": "$34.99",
+        "Stock": 75,
+        "SKU": "CW24680",
+        "Description": "A classic white linen shirt perfect for summer."
+    },
+    {
+        "Brand": "UrbanStyle",
+        "Color": "Black",
+        "Size": "X-Large",
+        "Material": "Spandex",
+        "Price": "$49.99",
+        "Stock": 120,
+        "SKU": "US13579",
+        "Description": "A sleek black spandex shirt for a modern urban look."
+    },
+    {
+        "Brand": "CasualChic",
+        "Color": "Gray",
+        "Size": "Medium",
+        "Material": "Cotton",
+        "Price": "$29.99",
+        "Stock": 90,
+        "SKU": "CC97531",
+        "Description": "A comfortable gray cotton shirt for casual outings."
+    },
+    {
+        "Brand": "ElegantWardrobe",
+        "Color": "Navy Blue",
+        "Size": "Small",
+        "Material": "Silk",
+        "Price": "$59.99",
+        "Stock": 60,
+        "SKU": "EW86420",
+        "Description": "An elegant navy blue silk shirt for formal occasions."
+    },
+    {
+        "Brand": "SportyStyle",
+        "Color": "Green",
+        "Size": "Large",
+        "Material": "Polyester",
+        "Price": "$34.99",
+        "Stock": 80,
+        "SKU": "SS75321",
+        "Description": "A sporty green polyester shirt with a dynamic design."
+    },
+    {
+        "Brand": "SummerBreeze",
+        "Color": "Yellow",
+        "Size": "Medium",
+        "Material": "Cotton",
+        "Price": "$27.99",
+        "Stock": 110,
+        "SKU": "SB63214",
+        "Description": "A bright yellow cotton shirt perfect for summer vibes."
+    },
+    {
+        "Brand": "VintageCharm",
+        "Color": "Brown",
+        "Size": "X-Large",
+        "Material": "Linen",
+        "Price": "$44.99",
+        "Stock": 70,
+        "SKU": "VC48965",
+        "Description": "A vintage brown linen shirt with a charming look."
+    },
+    {
+        "Brand": "ModernTrends",
+        "Color": "Purple",
+        "Size": "Small",
+        "Material": "Polyester",
+        "Price": "$37.99",
+        "Stock": 95,
+        "SKU": "MT21654",
+        "Description": "A trendy purple polyester shirt with a unique pattern."
+    },
+    {
+        "Brand": "CasualComfort",
+        "Color": "Beige",
+        "Size": "Large",
+        "Material": "Cotton",
+        "Price": "$31.99",
+        "Stock": 85,
+        "SKU": "CC74639",
+        "Description": "A comfortable beige cotton shirt for a relaxed look."
+    },
+    {
+        "Brand": "SleekStyles",
+        "Color": "Black",
+        "Size": "Medium",
+        "Material": "Spandex",
+        "Price": "$47.99",
+        "Stock": 105,
+        "SKU": "SS99999",
+        "Description": "A sleek black spandex shirt for a contemporary style."
+    }
+]
